@@ -4,3 +4,6 @@ __pycache__/
 .vscode/
 .worktrees/
 
+
+# Private source workbooks: never publish
+exemple-chiffrage/
